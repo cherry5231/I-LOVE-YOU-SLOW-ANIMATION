@@ -33,7 +33,7 @@ void main()
     getch();
 }
 ```
-## Source coden for modern compilers
+## Source Code for modern compilers
  ```c
  #include <stdio.h>
   
